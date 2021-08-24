@@ -2,6 +2,10 @@
     .category-item {
         margin-left: 105px !important;
     }
+    .main-image img {
+        height: 79vh;
+        object-position: -128px 0px;
+    }
     .logo1 {
         padding: 150px 15%;
     }
